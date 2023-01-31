@@ -1,4 +1,5 @@
-<h1>### Hi there 👋 I'm Michał and I'm ready to cooperate 😄 </b></b></b>
+<h1>### Hi there 👋 I'm Michał and I'm ready to cooperate 😄
+  
 More about me and my portfolio -> https://majkus.dev/</h1>
 
 <h2>My skills</h2>
