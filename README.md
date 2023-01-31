@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Michał and I'm ready to cooperate 😄
+More about me and my portfolio -> https://majkus.dev/
 
 <!--
 **majkus1/majkus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
