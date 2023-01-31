@@ -9,7 +9,7 @@ More about me and my portfolio -> https://majkus.dev/</h1>
 </p>
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" style="width: 40px; height: 40px;"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain.svg" style="width: 40px; height: 40px;">
 </p>
-<p align="left"><img src="" style="width: 40px; height: 40px;"><img src="" style="width: 40px; height: 40px;"><img src="" style="width: 40px; height: 40px;">
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg" style="width: 40px; height: 40px;"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" style="width: 40px; height: 40px;"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" style="width: 40px; height: 40px;">
 </p>
 
 
