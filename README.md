@@ -4,6 +4,7 @@ More about me and my portfolio -> https://majkus.dev/</h1>
 
 <h2>My skills</h2>
 
+
 <!--
 **majkus1/majkus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
