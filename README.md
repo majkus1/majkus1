@@ -1,6 +1,6 @@
 <h1>Hi there 👋 I'm Michał and I'm ready to cooperate 😄
   
-More about me and my portfolio -> https://majkus.dev/</h1>
+More about me and my portfolio -> [majkus.dev][portfolio]!</h1>
 
 <h2>My skills</h2>
 <p align="left">
