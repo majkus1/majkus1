@@ -11,7 +11,7 @@ More about me and my portfolio -> [majkus.dev](https://majkus.dev/)</h1>
 </p>
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg" style="width: 40px; height: 40px;"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" style="width: 40px; height: 40px;"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" style="width: 40px; height: 40px;">
 </p>
-<p>Check my code <img src="https://e7.pngegg.com/pngimages/979/54/png-clipart-arrow-arrow-blue-down-blue-angle-thumbnail.png" style="height: 40px;"></p>
+
 
 
 <!--
