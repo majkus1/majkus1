@@ -9,7 +9,7 @@
 
 - 📄 CV [https://drive.google.com/file/d/1_Bcail3cDv24ePJgLIFZg1fYvkJtam0-/view?usp=drive_link](https://drive.google.com/file/d/1_Bcail3cDv24ePJgLIFZg1fYvkJtam0-/view?usp=drive_link)
 
-- ⚡ Fun fact **during winter... I am snowboarder**
+- ⚡ Fun fact **during winter... I am snowboarder** 🏂
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
