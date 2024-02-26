@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **michalipka1@gmail.com**
 
-- 📄 CV [https://drive.google.com/drive/folders/1a_n1I8-WMIFcmVYYcYuu2NrIZLaNpDkj?hl=pl](https://drive.google.com/drive/folders/1a_n1I8-WMIFcmVYYcYuu2NrIZLaNpDkj?hl=pl)
+- 📄 CV soon...
 
 - ⚡ Fun fact **during winter... I am snowboarder** 🏂
 
