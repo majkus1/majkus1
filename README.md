@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **michalipka1@gmail.com**
 
-- 📄 CV soon...
+- 📄 [CV](https://www.canva.com/design/DAGcXbvqtOM/uyFWUO65Ni6p5hTy-gQqkA/view?utm_content=DAGcXbvqtOM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd84235835f)
 
 - ⚡ Fun fact **during winter... I am snowboarder** 🏂
 
