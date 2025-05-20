@@ -2,7 +2,6 @@
 <h3 align="center">I'm a Web Developer, and I really enjoy my work. I started my journey in 2021, taking on my first projects. In December 2023, I got hired in a professional position for the first time. Additionally, I am a third-year Computer Science student. I'm focused on growth and open to new collaborations. Feel free to check out my projects and get in touch if you'd like! :)</h3>
 
 - 📫 How to reach me **michalipka1@gmail.com**
-- 
 - ⚡ Fun fact **during winter... I am snowboarder** 🏂
 
 <h3 align="left">Connect with me:</h3>
