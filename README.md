@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **michalipka1@gmail.com**
 - ⚡ Fun fact **during winter... I am snowboarder** 🏂
-- - 📄 [CV]([https://www.canva.com/design/DAGcXbvqtOM/uyFWUO65Ni6p5hTy-gQqkA/view?utm_content=DAGcXbvqtOM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd84235835f](https://www.canva.com/design/DAGcXbvqtOM/_bsnuM1prlglZL-id3QDOw/edit?utm_content=DAGcXbvqtOM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 [CV](https://www.canva.com/design/DAGcXbvqtOM/uyFWUO65Ni6p5hTy-gQqkA/view?utm_content=DAGcXbvqtOM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd84235835f)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
