@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **michalipka1@gmail.com**
 - ⚡ Fun fact **during winter... I am snowboarder** 🏂
-- 📄 [CV](https://www.canva.com/design/DAGcXbvqtOM/uyFWUO65Ni6p5hTy-gQqkA/view?utm_content=DAGcXbvqtOM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd84235835f](https://www.canva.com/design/DAG0YjvkqWc/0tPHoveXenJSxV1eFAgdkA/edit?utm_content=DAG0YjvkqWc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 [CV](https://www.canva.com/design/DAGcXbvqtOM/uyFWUO65Ni6p5hTy-gQqkA/view?utm_content=DAGcXbvqtOM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd84235835f](https://www.canva.com/design/DAG0YjvkqWc/0tPHoveXenJSxV1eFAgdkA/edit?utm_content=DAG0YjvkqWc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAG0YjvkqWc/UrbBuB7bB1bTVTahyIiXCw/view?utm_content=DAG0YjvkqWc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1dc37b2ceb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
