@@ -2,6 +2,7 @@
 <h3 align="center">I'm a Fullstack Web Developer specializing in React, Next.js, and Node.js, with nearly 2 years of commercial experience.
 I started my journey in 2021, creating my first freelance projects, and in December 2023 I began working professionally in the betting industry.
 
+
 I focus on building modern web applications and PWAs with secure authentication (JWT), API integrations, and cloud deployments.
 Currently, I’m pursuing an Engineering degree in Computer Science (Frontend Developer specialization) and continuously improving my skills in TypeScript, DevOps, and web security.
 
