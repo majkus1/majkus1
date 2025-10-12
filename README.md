@@ -9,9 +9,10 @@ Currently, I’m pursuing an Engineering degree in Computer Science (Frontend De
 Feel free to explore my repositories and reach out if you'd like to connect!</h3>
 
 - 📫 How to reach me **michalipka1@gmail.com**
-- ⚡ Fun fact **during winter... I am snowboarder** 🏂
 - 📄 [CV](https://www.canva.com/design/DAG0YjvkqWc/UrbBuB7bB1bTVTahyIiXCw/view?utm_content=DAG0YjvkqWc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1dc37b2ceb)
 
+- ⚡ Fun fact **during winter... I am snowboarder** 🏂
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/michal-lipka-fe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał lipka" height="30" width="40" /></a>
