@@ -6,7 +6,7 @@ I focus on building modern web applications and PWAs with secure authentication 
 Currently, I’m pursuing an Engineering degree in Computer Science (Frontend Developer specialization) and continuously improving my skills in TypeScript, DevOps, and web security.
 
 🚀 Open to new collaborations and always eager to learn something new.
-Feel free to explore my repositories and reach out if you'd like to connect!/h3>
+Feel free to explore my repositories and reach out if you'd like to connect!</h3>
 
 - 📫 How to reach me **michalipka1@gmail.com**
 - ⚡ Fun fact **during winter... I am snowboarder** 🏂
