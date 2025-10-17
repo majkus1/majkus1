@@ -9,7 +9,7 @@ Currently, I’m pursuing an Engineering degree in Computer Science (Frontend De
 Feel free to explore my repositories and reach out if you'd like to connect!</h3>
 
 - 📫 How to reach me **michalipka1@gmail.com**
-- 📄 [CV](https://www.canva.com/design/DAG0YjvkqWc/UrbBuB7bB1bTVTahyIiXCw/view?utm_content=DAG0YjvkqWc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1dc37b2ceb)
+- 📄 [Always up-to-date CV](https://www.canva.com/design/DAG0YjvkqWc/UrbBuB7bB1bTVTahyIiXCw/view?utm_content=DAG0YjvkqWc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1dc37b2ceb)
 
 - ⚡ Fun fact **during winter... I am snowboarder** 🏂
   
