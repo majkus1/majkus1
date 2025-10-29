@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Michal Lipka</h1>
-<h3>I'm a Fullstack Web Developer specializing in React, Next.js, and Node.js, with nearly 2 years of commercial experience.
-I started my journey in 2021, creating my first freelance projects, and in December 2023 I began working professionally in the betting industry.</h3>
+I am a Fullstack / Web Developer experienced in building modern web applications and business websites. I combine solid frontend skills (React, Next.js, TypeScript) with backend development (Node.js, Express.js, MongoDB, MySQL, REST APIs), focusing on performance, SEO, and security.
 
-<h3>I focus on building modern web, mobile application, and PWA with secure authentication (JWT), API integrations, and cloud deployments.
-Currently, I’m pursuing an Engineering degree in Computer Science (Frontend Developer specialization) and continuously improving my skills in TypeScript, DevOps, and web security.</h3>
+I am currently expanding my expertise in TypeScript, C#/.NET, and Symfony to deliver even more scalable and reliable solutions across the full stack.
 
-<h3>🚀 Open to new collaborations and always eager to learn something new.
-Feel free to explore my repositories and reach out if you'd like to connect!</h3>
+I actively leverage AI-powered developer tools to automate workflows, improve code quality, and accelerate delivery — ensuring greater efficiency and business value.
+
+I care about clean architecture, maintainable code, and delivering meaningful, user-focused outcomes.
+
+Feel free to explore my projects on GitHub.
+
+I’m always open to new connections and collaboration.
 
 - 📫 How to reach me **michalipka1@gmail.com**
 - 📄 [Always up-to-date CV](https://www.canva.com/design/DAG0YjvkqWc/UrbBuB7bB1bTVTahyIiXCw/view?utm_content=DAG0YjvkqWc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1dc37b2ceb)
