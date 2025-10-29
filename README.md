@@ -2,13 +2,13 @@
 
 <h5>I am currently expanding my expertise in TypeScript, C#/.NET, and Symfony to deliver even more scalable and reliable solutions across the full stack.</h5>
 
-I actively leverage AI-powered developer tools to automate workflows, improve code quality, and accelerate delivery — ensuring greater efficiency and business value.
+<h5>I actively leverage AI-powered developer tools to automate workflows, improve code quality, and accelerate delivery — ensuring greater efficiency and business value.</h5>
 
-I care about clean architecture, maintainable code, and delivering meaningful, user-focused outcomes.
+<h5>I care about clean architecture, maintainable code, and delivering meaningful, user-focused outcomes.</h5>
 
-Feel free to explore my projects on GitHub.
+<h5>Feel free to explore my projects on GitHub.</h5>
 
-I’m always open to new connections and collaboration.
+<h5>I’m always open to new connections and collaboration.</h5>
 
 - 📫 How to reach me **michalipka1@gmail.com**
 - 📄 [Always up-to-date CV](https://www.canva.com/design/DAG0YjvkqWc/UrbBuB7bB1bTVTahyIiXCw/view?utm_content=DAG0YjvkqWc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1dc37b2ceb)
