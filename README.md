@@ -1,5 +1,7 @@
 <h3>I am a Fullstack / Web Developer experienced in building modern web applications and business websites. I combine solid frontend skills (React, Next.js, TypeScript) with backend development (Node.js, Express.js, MongoDB, MySQL, REST APIs), focusing on performance, SEO, and security.</h3>
 
+<h4>I also apply DevOps principles such as automated deployments, server configuration (Apache/Nginx), and process monitoring (PM2, cron jobs, CI/CD pipelines) to ensure reliable and scalable delivery.</h4>
+
 <h4>I am currently expanding my expertise in TypeScript, C#/.NET, and Symfony to deliver even more scalable and reliable solutions across the full stack.</h4>
 
 <h4>I actively leverage AI-powered developer tools to automate workflows, improve code quality, and accelerate delivery — ensuring greater efficiency and business value.</h4>
