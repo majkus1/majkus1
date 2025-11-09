@@ -4,7 +4,7 @@ I combine solid frontend skills (<font color="#2ecc71">React, Next.js, TypeScrip
 </h3>
 
 <h4>
-I also apply <font color="#00bcd4">DevOps principles</font> and <font color="#00bcd4">cloud technologies</font> – automating deployments, configuring servers (Apache/Nginx), managing environments (PM2, cron), and deploying applications to the cloud (<font color="#2ecc71">Netlify, Render, DigitalOcean</font>) using CI/CD pipelines.
+I also apply DevOps principles and cloud-native practices – provisioning Azure resources with IaC (Bicep), automating deployments to Azure, Netlify, Render, and DigitalOcean, configuring servers (Apache/Nginx), managing environments (PM2, cron), and shipping applications through CI/CD pipelines.
 </h4>
 
 <h4>
