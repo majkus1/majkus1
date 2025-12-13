@@ -1,23 +1,20 @@
 <h3>
-I am a <font color="#00bcd4">Fullstack / Web Developer</font> experienced in building modern web applications and business websites.  
-I combine solid frontend skills (<font color="#2ecc71">React, Next.js, TypeScript</font>) with backend development (<font color="#2ecc71">Node.js, Express.js, MongoDB, MySQL, REST APIs</font>), focusing on <font color="#f39c12">performance, SEO, and security</font>.
+I am a <font color="#00bcd4">Fullstack / Web Developer</font> specializing in modern web applications and business websites.  
+I combine strong frontend skills (<font color="#2ecc71">React, Next.js, TypeScript</font>) with backend development (<font color="#2ecc71">Node.js, Express.js, MongoDB, MySQL, REST APIs</font>), with a focus on <font color="#f39c12">performance, SEO, and security</font>.
 </h3>
 
 <h4>
-I also apply DevOps principles and cloud-native practices – provisioning Azure resources with IaC (Bicep), automating deployments to Azure, Netlify, Render, and DigitalOcean, configuring servers (Apache/Nginx), managing environments (PM2, cron), and shipping applications through CI/CD pipelines.
+I apply DevOps and cloud-native practices – IaC (Bicep), CI/CD pipelines, automated deployments (Azure, Netlify, Render, DigitalOcean), and server configuration (Apache/Nginx, PM2, cron).
 </h4>
 
 <h4>
-I am currently expanding my expertise in <font color="#2ecc71">TypeScript, C#/.NET, and Symfony</font> to deliver even more scalable and reliable solutions across the full stack.
+I continuously expand my expertise in <font color="#2ecc71">TypeScript, C#/.NET, and Symfony</font> and leverage <font color="#f39c12">AI-powered developer tools</font> to deliver scalable, efficient, and business-focused solutions.
 </h4>
 
 <h4>
-I actively leverage <font color="#f39c12">AI-powered developer tools</font> to automate workflows, improve code quality, and accelerate delivery — ensuring greater efficiency and <font color="#f39c12">business value</font>.
+I value <font color="#00bcd4">clean architecture</font>, maintainable code, and user-centered outcomes.
 </h4>
 
-<h4>
-I care about <font color="#00bcd4">clean architecture</font>, maintainable code, and delivering meaningful, user-focused outcomes.
-</h4>
 
 <h4>Feel free to explore my projects on GitHub.</h4>
 <h4>I’m always open to new connections and collaboration.</h4>
