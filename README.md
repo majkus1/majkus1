@@ -23,6 +23,6 @@ _Open to B2B collaboration and interesting full-time roles._
 ### 📫 Contact
 - Email: **michalipka1@gmail.com**
 - [Always up-to-date CV](https://www.canva.com/design/DAG0YjvkqWc/UrbBuB7bB1bTVTahyIiXCw/view)
-<a href="https://linkedin.com/in/michal-lipka-wd" target="blank">
+- <a href="https://linkedin.com/in/michal-lipka-wd" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał lipka" height="30" width="40" />
 </a> 
