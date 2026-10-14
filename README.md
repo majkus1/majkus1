@@ -1,26 +1,26 @@
-### Hi, I’m Michał 👋
+## Hi, I'm Michał 👋
 
-I’m a full-stack software engineer building web applications end-to-end — from idea and architecture to deployment and maintenance.
+I'm a **full-stack & AI developer** building web applications end-to-end — from idea and architecture to deployment and maintenance.
 
-I help businesses automate processes and implement AI-driven solutions that improve efficiency, reduce manual work, and support scalable growth.
+I help companies automate processes and build **AI-powered tools**: LLM integrations, AI assistants and agents that take repetitive work off people's plates and support scalable growth.
 
-I combine commercial experience with my own product projects, focusing on clean architecture, scalability, and long-term maintainability.
+I combine commercial experience with my own products running in production, focusing on clean architecture, security and long-term maintainability.
 
-AI is part of my daily workflow — used as a development accelerator and analysis tool — while I retain full ownership of system design and code quality.
-
----
+I work **AI-first** with Claude Code and Codex — agents speed up delivery, while every change goes through tests and review, and I keep full ownership of system design and code quality.
 
 ### 🔧 What I work on
-- End-to-end web applications  
-- Process automation & AI-powered workflows  
-- Scalable backend systems and integrations  
-- CI/CD, deployments, and infrastructure automation  
+- End-to-end web applications (TypeScript, React, Next.js, Node.js)
+- AI features & agents — OpenAI / Anthropic APIs, RAG, AI assistants
+- Process automation and integrations (REST APIs, webhooks, payments)
+- Python & databases — PostgreSQL, MS SQL, MongoDB, Redis
+- CI/CD, deployments and Linux servers
 
----
+### 🚀 Featured projects
+- **[planopia.pl](https://planopia.pl)** — SaaS for teams: time tracking, leave and scheduling. Multi-tenant data isolation, role-based access, Stripe & Przelewy24 webhooks with idempotency, AI assistant answering questions about team data.
+- **[czatsportowy.pl](https://czatsportowy.pl)** — real-time football chat with AI match analysis. A custom statistical model does the math, the LLM only explains it; Redis caching and usage limits keep AI costs predictable.
 
-_Open to B2B collaboration and interesting full-time roles._
+Open to **full-time roles** and B2B collaboration.
 
 ### 📫 Contact
-- Email: **michalipka1@gmail.com**
-- [Always up-to-date CV](https://www.canva.com/design/DAG0YjvkqWc/UrbBuB7bB1bTVTahyIiXCw/view)
-- <a href="https://linkedin.com/in/michal-lipka-wd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michał lipka" height="30" width="40" /></a> 
+- Email: [michalipka1@gmail.com](mailto:michalipka1@gmail.com)
+- LinkedIn: [linkedin.com/in/michal-lipka-wd](https://www.linkedin.com/in/michal-lipka-wd)
